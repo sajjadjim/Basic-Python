@@ -1,7 +1,7 @@
 marks = 40
 if marks>=80 :
     print("Your got A+")
-
+ 
 elif marks>=70:
     print("You got A")
 
