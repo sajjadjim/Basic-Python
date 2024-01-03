@@ -6,7 +6,7 @@ if marks<33:
         print("Fail")
 
 print("Your got your Result.....")
-
+ 
 #Largest Number
 num1 = 20
 num2 = 11
