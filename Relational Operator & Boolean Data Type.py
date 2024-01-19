@@ -1,4 +1,4 @@
-print(20== 30)
+print(20== 30) 
 print(20 > 11)
 print(50 >= 40)
 print(30!=20)
