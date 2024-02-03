@@ -1,6 +1,6 @@
 def my_function(country ="Bangladesh"):
     print("My country name is " +country)
-
+ 
 my_function("USA")
 my_function()
 my_function("Australia")
