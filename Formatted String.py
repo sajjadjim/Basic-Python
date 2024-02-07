@@ -1,4 +1,4 @@
-num1 = 10   
+num1 = 10    
 num2 = 11 
 print("sum is ",num1 + num2)
 
