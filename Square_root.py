@@ -1,2 +1,2 @@
-my code
+print("my code")
 sajjad hosssain jim
