@@ -7,5 +7,5 @@ print("The sum value is :",result)
 result = (num1) - (num2) 
 print("The sum value is :",result)
 
-result = (num1) - (num2) 
+result = (num1) - (num2)  
 print("The sum value is :",result)
