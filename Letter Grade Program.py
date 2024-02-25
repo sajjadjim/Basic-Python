@@ -1,4 +1,4 @@
-marks= 61
+marks= 61 
 if marks>=80 and marks<=100:
     print("A+")
 elif marks<=79 and marks>=70:
