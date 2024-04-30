@@ -16,3 +16,4 @@ elif marks <= 32 and marks >= 0:
 else:
     print("Invalied Number")
     
+
