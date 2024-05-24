@@ -1,6 +1,6 @@
 subjects =["C","C++","Java","Python","Android"]
 
-print(subjects[0]) 
+print(subjects[0])  
 
 print(subjects[1])
 
