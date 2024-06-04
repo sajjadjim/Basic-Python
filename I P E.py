@@ -1,4 +1,4 @@
-#Inheritance #Polymorphism #Encapsulation
+#Inheritance #Polymorphism #Encapsulation  
 class University:
   chancellor="Mohammed Shahabuddin"
 
