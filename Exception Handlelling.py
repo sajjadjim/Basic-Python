@@ -8,5 +8,5 @@ def divide(x,y):
   finally:
     print("End of division")
 
-divide(10,2)
+divide(10,2). 
 divide(10,0)
