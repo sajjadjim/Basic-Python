@@ -1,5 +1,5 @@
 # Using Return function to print 
-a = 5           
+a = 5            
 b = 6
        
 def sum(a,b):
