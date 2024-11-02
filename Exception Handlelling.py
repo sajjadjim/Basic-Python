@@ -1,4 +1,4 @@
-from logging import NullHandler 
+from logging import NullHandler  
 def divide(x,y):  
   try: # Always Execute
     result=x/y # x=10, y=2
