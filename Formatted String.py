@@ -6,4 +6,4 @@ print(f"{num1} + {num2} = {num1+num2}")
  
 print("Sajjad Hossain Jim..",end=" ") 
 print("016****18**") 
-print("Helow worl!")
+print("Helow worl!") 
