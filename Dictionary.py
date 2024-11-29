@@ -1,6 +1,6 @@
 thisdict =	{             
   "brand": "Ford", 
-  "model": "Mustang", 
+  "model": "Mustang",  
   "year": 1964
 }
 print(thisdict)
